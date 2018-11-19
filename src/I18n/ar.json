@@ -1,0 +1,18 @@
+{
+  "home": {
+      "title": "الصفحة الرئيسية",
+      "introduction": "هذه الصفحة الرئيسية."
+  },
+  "aboutUs": {
+      "title": "معلومات عنا",
+      "introduction": "هذه صفحة حول الولايات المتحدة."
+  },
+  "common": {
+      "currentLanguage": "اللغة الحالية هي ",
+      "actions": {
+          "increment": "زيادة راتب",
+          "decrement": "إنقاص",
+          "goToNextPage": "اذهب إلى الصفحة التالية"
+      }
+  }
+}

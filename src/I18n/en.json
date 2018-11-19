@@ -1,0 +1,18 @@
+{
+        "home": {
+            "title": "Home",
+            "introduction": "This is Home page."
+        },
+        "aboutUs": {
+            "title": "About Us",
+            "introduction": "This is About US page."
+        },
+        "common": {
+            "currentLanguage": "The current language is ",
+            "actions": {
+                "increment": "Increment",
+                "decrement": "Decrement",
+                "goToNextPage": "GO TO NEXT PAGE"
+            }
+        }
+}
