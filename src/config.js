@@ -1,0 +1,1 @@
+export default DETECT_SYSTEM_LANGUAGE = true;
