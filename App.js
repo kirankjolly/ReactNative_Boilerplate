@@ -12,7 +12,7 @@ import NavigationDrawer from './src/components/NavigationDrawer/NavigationDrawer
 import Images from './src/assets/images/Images';
 import styles from './src/styles/globalStyles';
 
-import SplashScreen from './src/screens/SpashScreen/SpalshScreen';
+import SplashScreen from './src/screens/SplashScreen/SplashScreen';
 import Home from './src/screens/Home/Home';
 import AboutUs from './src/screens/AboutUs/AboutUs';
 

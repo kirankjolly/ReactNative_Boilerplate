@@ -3,7 +3,7 @@ import { View, Text } from 'react-native';
 import { NavigationActions, StackActions } from 'react-navigation'
 import styles from './SplashScreenStyles';
 
-class SpashScreen extends Component {
+class SplashScreen extends Component {
     componentDidMount() {
         setTimeout(() => {
             const resetAction = StackActions.reset({
@@ -16,10 +16,10 @@ class SpashScreen extends Component {
     render() {
         return (
             <View style={styles.container}>
-                <Text>SpashScreen</Text>
+                <Text>SplashScreen</Text>
             </View>
         );
     }
 }
 
-export default SpashScreen;
+export default SplashScreen;
